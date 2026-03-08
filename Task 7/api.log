@@ -1,0 +1,6 @@
+2026-03-08 04:56:30,401 | api | DEBUG | delete_user called with args=('admin', 42), kwargs={}
+2026-03-08 04:56:30,404 | api | INFO | Access granted for role=admin
+2026-03-08 04:56:30,405 | api | DEBUG | delete_user returned User 42 deleted
+2026-03-08 04:56:30,406 | api | INFO | delete_user executed in 0.0047 seconds
+2026-03-08 04:56:48,482 | api | DEBUG | delete_user called with args=('guest', 42), kwargs={}
+2026-03-08 04:56:48,485 | api | WARNING | Access denied for role=guest on delete_user

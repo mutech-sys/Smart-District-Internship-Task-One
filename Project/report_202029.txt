@@ -1,0 +1,15 @@
+1, Ali Khan, 78, PASS, fine=0
+2, Sara Ahmed, 45, FAILED, fine=20
+3, Omar Farooq, 88, PASS, fine=10
+4, Ayesha Malik, 92, PASS, fine=0
+5, Hassan Raza, 39, FAILED, fine=40
+6, Noor Fatima, 67, PASS, fine=0
+7, Usman Tariq, 54, PASS, fine=30
+8, Zainab Ali, 81, PASS, fine=0
+9, Bilal Hussain, 49, FAILED, fine=20
+10, Maryam Shah, 73, PASS, fine=10
+11, Ahmad Nawaz, 61, PASS, fine=0
+12, Laiba Khan, 34, FAILED, fine=50
+13, Saad Iqbal, 58, PASS, fine=20
+14, Hira Siddiqui, 90, PASS, fine=0
+15, Daniyal Akram, 47, FAILED, fine=30
